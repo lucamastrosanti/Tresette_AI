@@ -1,0 +1,4 @@
+Partita 001 | Punti Bot: 7.00 - Punti Tuoi: 4.67 | Vittorie IA: 1 | Win Rate IA: 100.0% | Diff. Media Punti: +2.33
+Partita 002 | Punti Bot: 7.00 - Punti Tuoi: 4.67 | Vittorie IA: 2 | Win Rate IA: 100.0% | Diff. Media Punti: +2.33
+Partita 003 | Punti Bot: 5.33 - Punti Tuoi: 6.33 | Vittorie IA: 2 | Win Rate IA: 66.7% | Diff. Media Punti: +1.22
+Partita 004 | Punti Bot: 9.67 - Punti Tuoi: 2.00 | Vittorie IA: 3 | Win Rate IA: 75.0% | Diff. Media Punti: +2.83
